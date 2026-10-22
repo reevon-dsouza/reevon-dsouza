@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/reevon-dsouza"><img src="https://img.shields.io/github/followers/reevon-dsouza?label=Follow&style=for-the-badge&logo=github&color=0d1117" alt="GitHub followers" /></a>
-  <a href="mailto:hello@reevondsouza.com"><img src="https://img.shields.io/badge/Say_hello-Email-38bdf8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email me" /></a>
+  <a href="mailto:reevon2004@gmail.com"><img src="https://img.shields.io/badge/Say_hello-Email-38bdf8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email me" /></a>
   <img src="https://komarev.com/ghpvc/?username=reevon-dsouza&style=for-the-badge&color=2c5364&label=Profile+views" alt="Profile views" />
 </p>
 
@@ -41,7 +41,7 @@ Open to      → interesting conversations and collaboration
 
 ## 🤝 Let's connect
 
-Got an idea, a project, or just want to chat? My inbox is open, so [say hello](mailto:hello@reevondsouza.com).
+Got an idea, a project, or just want to chat? My inbox is open, so [say hello](mailto:reevon2004@gmail.com).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="" />
 
