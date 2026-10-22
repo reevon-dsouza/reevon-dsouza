@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Reevon 👋
 
-<!--
-**reevon-dsouza/reevon-dsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Curious by default. Building with intent.
 
-Here are some ideas to get you started:
+I'm a developer and digital maker who enjoys turning ideas into thoughtful, useful experiences. I care about clean details, practical solutions, and work that feels good to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm into
+
+- Building products for the web
+- Learning through side projects and experimentation
+- Making complex things feel simple
+
+## Currently
+
+```text
+Working on   → new ideas and useful projects
+Learning     → more every day
+Open to      → interesting conversations and collaboration
+```
+
+## Find me online
+
+[GitHub](https://github.com/reevon-dsouza) · [Say hello](mailto:hello@reevondsouza.com)
+
+---
+
+<sub>Thanks for stopping by.</sub>
